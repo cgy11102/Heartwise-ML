@@ -34,6 +34,6 @@ The dataset (`heart_disease.csv`) includes records for approximately 300 medical
 3. Run the Jupyter Notebook (`.ipynb`) to see the full analysis and results.
 
 ## 📂 Deliverables
-- `Cho_Kyuhyeon_hw1.ipynb`: Full Python source code and analysis.
-- `Cho_Kyuhyeon_hw1.html`: Exported version of the notebook for quick viewing.
+- `Heartwise-ML.ipynb`: Full Python source code and analysis.
+- `Heartwise-ML.html`: Exported version of the notebook for quick viewing.
 - `heart_disease.csv`: The raw dataset used for training.
